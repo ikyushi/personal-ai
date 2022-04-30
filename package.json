@@ -1,0 +1,21 @@
+{
+  "name": "simplesent-ai",
+  "version": "0.1.0",
+  "description": "A personal ai developed by simplesentai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "artificial",
+    "intellegence",
+    "smart"
+  ],
+  "author": "simplesentai",
+  "license": "ISC",
+  "dependencies": {
+    "japanese": "^1.2.0",
+    "prompt": "^1.3.0"
+  }
+}
